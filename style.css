@@ -1,0 +1,15 @@
+textarea {
+         text-align: center;
+         color: yellow;
+         background-color: red;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    background-color: red;
+}
+p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
